@@ -1,0 +1,30 @@
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\bin\Debug\lab_13.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\bin\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\bin\Debug\lab_13.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Dianki\lw13\lw13\obj\Debug\lab_13.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\bin\Debug\lab_13.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\bin\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\bin\Debug\lab_13.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab13\lw13(сдавать)\lw13\obj\Debug\lab_13.pdb
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\bin\Debug\lab_13.exe.config
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\bin\Debug\lab_13.exe
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\bin\Debug\lab_13.pdb
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\obj\Debug\lab_13.csproj.SuggestedBindingRedirects.cache
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\obj\Debug\lab_13.exe
+F:\LERA\Cripta\Labs\Cripta_Lab13\lw13\lw13\obj\Debug\lab_13.pdb
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\bin\Debug\lab_13.exe.config
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\bin\Debug\lab_13.exe
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\bin\Debug\lab_13.pdb
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\obj\Debug\lab_13.csproj.AssemblyReference.cache
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\obj\Debug\lab_13.csproj.SuggestedBindingRedirects.cache
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\obj\Debug\lab_13.exe
+E:\6sem\CRYPTO_3_2\Lab13\lab_13\lab_13_EllipticCurves\obj\Debug\lab_13.pdb

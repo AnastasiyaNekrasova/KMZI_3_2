@@ -1,0 +1,41 @@
+<div class="left-content">
+    <h1>Portuguese</h1>
+    <textarea readonly>{{portText}}</textarea>
+    <div>
+        <h2 style="margin: 15px 0 10px 20px;">Character Probabilities:</h2>
+        <div class="table" style="display: flex; flex-wrap: wrap; height: 115px; overflow: auto;">
+            {{#each portCharacterProbabilities}}
+            <div class="table-item">
+                <div style="font-weight: bold;">{{@key}}</div>
+                <div>{{this}}</div>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+    <div>
+        <h2 style="margin: 15px 0 10px 20px;">Entropy:</h2>
+        {{{formula}}} {{{portEntropy}}}
+    </div>
+</div>
+
+
+
+<div class="right-content">
+    <h1>Serbian</h1>
+    <textarea readonly>{{serbText}}</textarea>
+    <div>
+        <h2 style="margin: 15px 0 10px 20px;">Character Probabilities:</h2>
+        <div class="table" style="display: flex; flex-wrap: wrap; height: 115px; overflow: auto;">
+            {{#each serbCharacterProbabilities}}
+            <div class="table-item">
+                <div style="font-weight: bold;">{{@key}}</div>
+                <div>{{this}}</div>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+    <div>
+        <h2 style="margin: 15px 0 10px 20px;">Entropy:</h2>
+        {{{formula}}} {{{serbEntropy}}}
+    </div>
+</div>

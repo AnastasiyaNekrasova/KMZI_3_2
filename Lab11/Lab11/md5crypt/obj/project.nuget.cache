@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kluwclRB2E9QyRsnLKSwuykGba8sn25xotX8X9U3uar8G6KK+RMPFt7QDFurVE0PC9q1aAoCGRzE0uPQ3PBETw==",
+  "success": true,
+  "projectFilePath": "E:\\6sem\\CRYPTO_3_2\\Lab11\\Lab11\\md5crypt\\md5crypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afier\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\afier\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\afier\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\afier\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

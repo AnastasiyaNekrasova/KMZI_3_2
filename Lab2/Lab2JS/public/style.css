@@ -1,0 +1,169 @@
+body {
+  background: #090d00;
+}
+.header {
+  font: 400 1em/1.5 "Neuton";
+  color: rgba(255, 255, 255, 0.25);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  display: inline-block;
+  border: 4px double rgba(255, 255, 255, 0.25);
+  border-width: 4px 0;
+  padding: 0.5em 0em;
+  position: absolute;
+  top: 1%;
+  left: 0%;
+  width: 100%;
+  margin: 0;
+}
+.header span {
+  font: 700 2.5em "Oswald", sans-serif;
+  letter-spacing: 0;
+  padding: 0.1em 0 0.1em;
+  display: block;
+  margin: 0 auto;
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+  /* Clip Background Image */
+  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Animate Background Image */
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: aitf 80s linear infinite;
+  /* Activate hardware acceleration for smoother animations */
+  -webkit-transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+}
+/* Animate Background Image */
+@-webkit-keyframes aitf {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.content {
+  display: flex;
+  margin-top: 150px;
+  height: 70%;
+}
+.content h1 {
+  margin: 10px;
+  text-align: center;
+}
+
+.left-content {
+  padding: 5px;
+  border-radius: 1%;
+  width: 50vw;
+  margin: 0 5px 0 10px;
+  background: #c8ff48;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-content {
+  padding: 5px;
+  border-radius: 1%;
+  width: 50vw;
+  margin: 0 5px 0 10px;
+  background: #379b3c;
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  text-align: justify;
+  width: 100%;
+  height: 170px;
+  max-height: 170px;
+  padding: 0 5px 0 10px;
+  border: none;
+  background: transparent;
+  color: #090d00;
+  font-family: "Neuton", sans-serif;
+  font-size: 1em;
+  resize: none;
+  box-shadow: 4px 2px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+textarea {
+  /* ...другие стили textarea... */
+  scrollbar-width: thin; /* Ширина полосы прокрутки */
+  scrollbar-color: #090d00 #c8ff48; /* Цвет полосы прокрутки и фона */
+}
+
+/* Стили полосы прокрутки */
+*::-webkit-scrollbar {
+  width: 4px; /* Ширина полосы прокрутки */
+}
+
+*::-webkit-scrollbar-track {
+  background-color: transparent; /* Цвет фона полосы прокрутки */
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #090d00; /* Цвет полосы прокрутки */
+}
+
+.table {
+  justify-content: flex-start;
+  padding: 5px;
+}
+
+.table .table-item {
+  flex: 0 0 auto;
+  margin-right: 7px;
+}
+
+.formula {
+  width: 100px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 20px 0;
+}
+
+.button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  background-color: #ff6f00;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #ffdd00;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+table th,
+table td {
+  padding: 8px 12px;
+}
+
+table thead {
+  background-color: #f5f5f5;
+  text-align: left;
+}
+
+table th {
+  font-weight: bold;
+}
+
+table tbody tr:hover {
+  background-color: #eaeaea;
+}

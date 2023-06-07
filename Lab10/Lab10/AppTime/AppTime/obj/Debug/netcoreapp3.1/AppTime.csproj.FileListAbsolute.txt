@@ -1,0 +1,14 @@
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.exe
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.deps.json
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.json
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.runtimeconfig.dev.json
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.dll
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\netcoreapp3.1\AppTime.pdb
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.AssemblyReference.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfoInputs.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.AssemblyInfo.cs
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.csproj.CoreCompileInputs.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.dll
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.pdb
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\netcoreapp3.1\AppTime.genruntimeconfig.cache

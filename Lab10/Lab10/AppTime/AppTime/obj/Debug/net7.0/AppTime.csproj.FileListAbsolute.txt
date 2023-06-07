@@ -1,0 +1,15 @@
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\net7.0\AppTime.exe
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\net7.0\AppTime.deps.json
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\net7.0\AppTime.runtimeconfig.json
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\net7.0\AppTime.dll
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\bin\Debug\net7.0\AppTime.pdb
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.csproj.AssemblyReference.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.AssemblyInfoInputs.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.AssemblyInfo.cs
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.csproj.CoreCompileInputs.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.dll
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\refint\AppTime.dll
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.pdb
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\AppTime.genruntimeconfig.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\AppTime\AppTime\obj\Debug\net7.0\ref\AppTime.dll

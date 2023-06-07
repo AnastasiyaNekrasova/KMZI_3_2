@@ -1,0 +1,22 @@
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe.config
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.pdb
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csprojAssemblyReference.cache
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.CoreCompileInputs.cache
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.exe
+D:\BSTU\III\II sem\Cryptography\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe.config
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta\С мира по нитке)\Leshki\lab_10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.pdb
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe.config
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.pdb
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.AssemblyReference.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.SuggestedBindingRedirects.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.CoreCompileInputs.cache
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.exe
+E:\6sem\CRYPTO_3_2\Lab10\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.pdb
